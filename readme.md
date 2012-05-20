@@ -1,3 +1,13 @@
+# My first attempt at Puzzle Node #3 - Spelling suggestions
+
+If you would like to run my solution, just hop on into the lib/spelling_suggestions folder, and fire off the runner:
+
+    > ruby runner.rb
+
+The program will output the spelling suggestion for the test cases found in input/SAMPLE_INPUT.txt.
+
+The original problem statement from Puzzle Node is as follows...
+
 # [[#3] Spelling suggestions](http://puzzlenode.com/puzzles/3-spelling-suggestions)
 
 _This puzzle was contributed by Carol Nichols and published on March 15, 2011_
