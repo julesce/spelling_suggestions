@@ -1,0 +1,3 @@
+require_relative 'spelling_suggestions/spell_checker'
+require_relative 'spelling_suggestions/spelling_test_case'
+require_relative 'spelling_suggestions/suggestion'
